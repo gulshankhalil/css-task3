@@ -1,0 +1,216 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.first{
+    background-image: url("../img/bg-masthead.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: scroll;
+    padding-top: 25rem;
+    padding-bottom: 20rem;
+    width: 100%;
+    margin-left: auto;
+    margin-left: auto;
+}
+hr.divider {
+    height: 0.2rem;
+    max-width: 3.25rem;
+    margin: 1.5rem auto;
+    background-color: #f4623a;
+    opacity: 1;
+  }
+  .first h1 {
+    text-align: center;
+    color: #ffffff;
+    font-size: 36px;
+    margin: 0px 350px 8px;
+    padding-top: 70px;
+    
+  }
+  .p1 {
+    text-align: center;
+    font-size: 20px;
+    margin: 0px 400px 15px;
+    color: #ffffffbf;
+    margin-bottom: 35px;
+
+  }
+  .btn {
+    padding: 1.25rem 2.25rem;
+    font-size: 0.85rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    border: none;
+    border-radius: 10rem;
+    background-color: #f4623a;
+    color: #fff;
+    text-decoration: none;
+    cursor: pointer;
+    display: block;
+    margin-top: 20px;
+    margin: 20px 150px 15px;    
+}
+  .second {
+    background-color: #f4623a;
+    padding-top: 7rem;
+    padding-bottom: 20rem;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 400px;
+    padding-right: 400px;
+  }
+  .a2{
+    text-align: center;
+  padding: 1.25rem 2.25rem;
+  font-size: 0.85rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  border: none;
+  border-radius: 10rem;
+  color: #000;
+  background-color: #f8f9fa;
+  text-decoration: none;
+    cursor: pointer;
+    display: block;
+    margin-top: 20px;
+    margin: 20px 150px 15px;
+}
+.second h2 {
+    color: #ffffff;
+    text-align: center;
+    margin: 0px 350px 8px;
+    padding-top: 70px;
+    font-size: 2.5em;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+    }
+    .second p{
+        text-align: center;
+        font-size: 20px;
+        margin: 0px 400px 15px;
+        color: #ffffffbf;
+        margin-bottom: 35px;
+        display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    }
+    .third {
+        background-color: #212529;
+        padding-top: 7rem;
+    padding-bottom: 7rem;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 350px;
+    padding-right: 350px;
+
+    }
+    h2{
+        color: #ffffff;
+        text-align: center;
+    margin: 0px 200px 8px;
+    padding-top: 70px;
+    font-size: 2.5em;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+
+    }
+    .a3{
+        background-color: #f8f9fa;
+        text-align: center;
+        padding: 1.25rem 2.25rem;
+        font-size: 0.85rem;
+        font-weight: 700;
+        text-transform: uppercase;
+        border: none;
+        border-radius: 10rem;
+        color: #000;
+        text-decoration: none;
+          cursor: pointer;
+          display: block;
+          margin-top: 20px;
+          margin-left: 180px;
+          margin-right: 180px;
+    }
+.forth{
+    background-color: #ffffff;
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    width: 100%;
+    padding-left: 350px;
+    padding-right: 350px;
+}
+.forth h2 {
+    color: #212529;
+    text-align: center;
+    margin: 0px 250px 8px;
+    padding-top: 70px;
+    font-size: 2.5em;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+
+}
+.forth p {
+    text-align: center;
+    color: #6c757d;
+    font-size: 16px;
+    margin: 0px 0px 48px;
+    margin-bottom: 15px;
+    display: block;
+    }
+.form {
+    width: 650px;
+    height: 650px;
+    padding: 50px;
+    margin: 150px auto;
+    display: block;
+}
+.inpt{
+    width: 100%;
+    text-align: initial;
+    border-color: #dc3545;
+    padding: 16px 36px 16px 12px;
+    border-radius: 0.35rem;
+    margin-bottom: 10px;
+}
+.lbl{
+    font-size: 20px;
+    color: #212529;
+    text-align: inherit;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+button{
+    width: 100%;
+    text-align: center;
+    margin-top: 15px;
+    padding: 1.25rem 2.25rem;
+    font-size: 0.85rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    border: none;
+    border-radius: 5rem;
+    color: #ffffff;
+    background-color: #f4623a;
+      text-decoration: none;
+      cursor: pointer;
+      display: block;
+  }
+ 
